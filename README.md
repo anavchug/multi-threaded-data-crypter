@@ -10,10 +10,11 @@ MultiThreaded Data Crypter is a Java application that efficiently processes and 
 - Data Validation: Implements data validation checks to ensure data integrity and adherence to specified patterns and rules.
 - File I/O: Demonstrates strong file handling skills for reading and processing data from external files.
 - Exception Handling: Implements effective exception handling for error resilience and application stability.
-- Getting Started
-- To run the application locally, follow these steps:
 
-Clone the repository to your local machine.
+**Getting Started**
+ 
+ To run the application locally, follow these steps:
+- Clone the repository to your local machine.
 - Open the project in your preferred Java development environment (e.g., VS Code, Eclipse, IntelliJ IDEA).
 - Build and run the Driver.java file to start the application.
 
