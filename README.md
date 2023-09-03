@@ -22,7 +22,8 @@ MultiThreaded Data Crypter is a Java application that efficiently processes and 
 - Prepare an input file (xyz.txt) with the data records to be processed. Ensure the data is formatted as specified in the project.
 - Run the application, and it will process the input data, perform decryption, and output the results.
 - Review the output to see the decrypted data and validation status.
-
+  
+![text file for threads](https://github.com/anavchug/multi-threaded-data-crypter/assets/72577896/16b3d589-727a-4361-9ef9-8aa732aca8c8)
 ![multi-threading](https://github.com/anavchug/multi-threaded-data-crypter/assets/72577896/c352015b-6ce1-4377-af38-c99b73309715)
 
 **Contributing**
